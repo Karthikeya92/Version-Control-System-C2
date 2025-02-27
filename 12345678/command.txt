@@ -3,3 +3,10 @@
 git add .
 git commit -m"added QR"
 git push origin main
+
+
+git remote 
+git remote add upstream <main repo url>
+git pull upstream main --no-rebase 
+
+:wq
